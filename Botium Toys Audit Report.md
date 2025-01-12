@@ -40,9 +40,9 @@ General Data Protection Regulation (GDPR)
 
 | Yes | No  | Best practice                                                                                                     |
 | :-: | :-: | :---------------------------------------------------------------------------------------------------------------- |
-|     |  x  | E.U. customers’ data is kept private/secured.                                                                     |
+|     |  X  | E.U. customers’ data is kept private/secured.                                                                     |
 |  X  |     | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
-|     |  x  | Ensure data is properly classified and inventoried.                                                               |
+|     |  X  | Ensure data is properly classified and inventoried.                                                               |
 |  X  |     | Enforce privacy policies, procedures, and processes to properly document and maintain data.                       |
 
 System and Organizations Controls (SOC type 1, SOC type 2\) 
