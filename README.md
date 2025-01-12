@@ -34,8 +34,7 @@ Review Botium Toys:  Scope, goals, and risk assessment report, with a focus on:
 
 The assets currently managed by the IT department
 
-The bullet points under “Additional comm[Uploading Controls and compliance checklist.md…]()
-ents” in the Risk assessment section
+The bullet points under “Additional comments” in the Risk assessment section
 
 Consider information provided in the report using the Controls Categories document.
 
