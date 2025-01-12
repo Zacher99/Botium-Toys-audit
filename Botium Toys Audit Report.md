@@ -1,6 +1,6 @@
 # Controls and compliance checklist
 
-Then, select “yes” or “no” to answer the question: *Does Botium Toys currently have this control in place?* 
+select “yes” or “no” to answer the question: *Does Botium Toys currently have this control in place?* 
 
 **Controls assessment checklist**
 
@@ -25,7 +25,7 @@ Then, select “yes” or “no” to answer the question: *Does Botium Toys cur
 
 **Compliance checklist**
 
-Then, select “yes” or “no” to answer the question: *Does Botium Toys currently adhere to this compliance best practice?*
+select “yes” or “no” to answer the question: *Does Botium Toys currently adhere to this compliance best practice?*
 
 Payment Card Industry Data Security Standard (PCI DSS)
 
