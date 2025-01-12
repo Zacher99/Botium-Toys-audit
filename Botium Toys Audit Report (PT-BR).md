@@ -1,6 +1,5 @@
 # Lista de Verificação de Controles e Conformidade
-Para completar a lista de verificação de avaliação de controles, consulte as informações fornecidas no relatório de escopo, metas e avaliação de riscos.
-Em seguida, selecione “sim” ou “não” para responder à pergunta: *A Botium Toys possui atualmente esse controle implementado?*
+selecione “sim” ou “não” para responder à pergunta: *A Botium Toys possui atualmente esse controle implementado?*
 
 **Lista de Verificação de Avaliação de Controles**
 
@@ -24,8 +23,7 @@ Em seguida, selecione “sim” ou “não” para responder à pergunta: *A Bot
 ---
 
 **Lista de Verificação de Conformidade**
-Para completar a lista de verificação de conformidade, consulte as informações fornecidas no relatório de escopo, metas e avaliação de riscos.
-Em seguida, selecione “sim” ou “não” para responder à pergunta: *A Botium Toys atualmente segue essa melhor prática de conformidade?*
+selecione “sim” ou “não” para responder à pergunta: *A Botium Toys atualmente segue essa melhor prática de conformidade?*
 
 Padrão de Segurança de Dados para a Indústria de Cartões de Pagamento (PCI DSS)
 
