@@ -22,8 +22,8 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 The following supporting materials will help you complete this activity. Keep materials open as you proceed to the next steps. 
 To use the supporting materials for this course item, click the links. 
 Links to supporting materials: 
-[[Botium Toys_ Scope, goals, and risk assessment report]]
-[[Controls and compliance checklist]]
+[Botium Toys_ Scope, goals, and risk assessment report](https://github.com/Zacher99/Botium-Toys-audit/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.md)
+[Controls and compliance checklist](https://github.com/Zacher99/Botium-Toys-audit/blob/main/Controls%20and%20compliance%20checklist.md)
 
 ## Step 2: Conduct the audit: Controls and compliance checklist
 Conduct the security audit by completing the controls and compliance checklist. 
@@ -40,4 +40,4 @@ Consider information provided in the report using the Controls Categories docume
 
 Then, review the Controls and compliance checklist and select “yes” or “no” to answer the question in each section (note: the recommendations section is optional).*
 
-My result: [[Botium Toys Audit Report]]
+My result: [Botium Toys Audit Report](https://github.com/Zacher99/Botium-Toys-audit/blob/main/Botium%20Toys%20Audit%20Report.md)
