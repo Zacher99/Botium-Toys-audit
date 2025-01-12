@@ -67,8 +67,8 @@ Os seguintes materiais de apoio ajudarão você a concluir esta atividade. Mante
 Para usar os materiais de apoio para este item do curso, clique nos links. 
 
 Links para materiais de apoio:
-[Botium Toys_ Scope, goals, and risk assessment report](https://github.com/Zacher99/Botium-Toys-audit/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.md) e
-[Controls and compliance checklist](https://github.com/Zacher99/Botium-Toys-audit/blob/main/Controls%20and%20compliance%20checklist.md)
+[Botium Toys_ Scope, goals, and risk assessment report - PT-BR](https://github.com/Zacher99/Botium-Toys-audit/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report%20-%20(PT-BR).md) e
+[Controls and compliance checklist - PT-BR](https://github.com/Zacher99/Botium-Toys-audit/blob/main/Controls%20and%20compliance%20checklist%20-%20(PT-BR).md)
 
 ## Etapa 2: Realizar a auditoria: Lista de verificação de controles e conformidade
 Realize a auditoria de segurança concluindo os controles e a lista de verificação de conformidade. 
@@ -85,4 +85,4 @@ Considere as informações fornecidas no relatório usando o documento Categoria
 
 Em seguida, revise a lista de verificação de controles e conformidade e selecione “sim” ou “não” para responder à pergunta em cada seção (observação: a seção de recomendações é opcional) .*
 
-Meu resultado: [Botium Toys Audit Report](https://github.com/Zacher99/Botium-Toys-audit/blob/main/Botium%20Toys%20Audit%20Report.md)
+Meu resultado: [Botium Toys Audit Report - PT-BR](https://github.com/Zacher99/Botium-Toys-audit/blob/main/Botium%20Toys%20Audit%20Report%20(PT-BR).md)
